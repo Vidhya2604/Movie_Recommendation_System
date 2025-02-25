@@ -13,7 +13,6 @@ This project is a **Movie Recommendation System** built using **Python and Strea
 ## Technologies Used
 - **Python** (Programming Language)
 - **Pandas & NumPy** (Data Handling)
-- **Scikit-Learn** (Machine Learning Algorithms)
 - **Streamlit** (Web Application Framework)
 - **Pickle** (Model Deployment)
 
