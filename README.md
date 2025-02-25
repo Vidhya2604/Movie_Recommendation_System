@@ -59,5 +59,5 @@ movie-recommendation-system/
 ```
 
 
-- **GitHub**: [yourusername](https://github.com/Vidhya2604)
+- **GitHub**:(https://github.com/Vidhya2604)
 - **Email**: Vidhyabca2021@gmail.com.com
